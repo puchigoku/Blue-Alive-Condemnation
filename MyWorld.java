@@ -16,7 +16,7 @@ public class MyWorld extends World
     int Glück=50;
     int Tag=0;
     int Platz = 35;
-    private PiratenBande whitebeard;
+    private PirateBand whitebeard;
     
     /**
      * Constructor for objects of class MyWorld.
@@ -26,7 +26,7 @@ public class MyWorld extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(600, 400, 1); 
-        whitebeard = new PiratenBande (Greenfoot.getRandomNumber(25));
+        whitebeard = new PirateBand (Greenfoot.getRandomNumber(25));
     }
     public void act()
     {

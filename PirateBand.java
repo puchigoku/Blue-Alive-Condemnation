@@ -13,7 +13,7 @@ public class PirateBand extends Actor
     private String name;
     private boolean imHafen;
     private int wartetage;
-    public PiratenBande(int anzahl, String pname, int pwartetage)
+    public PirateBand(int anzahl, String pname, int pwartetage)
     {
         bande = new Pirate[anzahl];
         name = pname;

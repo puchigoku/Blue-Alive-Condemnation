@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ Tagnacht()
+comment4.params=pgeld
+comment4.target=void\ setgeld(int)
+comment5.params=
+comment5.target=int\ getgeld()
+comment6.params=
+comment6.target=int\ gettage()
+comment7.params=
+comment7.target=void\ Resourcen\u00E4ndern()
+comment8.params=
+comment8.target=void\ Steuernzahlen()
+comment9.params=
+comment9.target=void\ Steuernerh\u00F6hen()
+numComments=10
